@@ -20,6 +20,7 @@ var models = [
 exports.Prisma = prisma_lib_1.makePrismaClientClass({
   typeDefs,
   models,
-  endpoint: `http://138.68.19.53:4466/crwn-clothing-prisma/dev`
+  endpoint: `
+  https://style88-9efcbe60e4.herokuapp.com/style88/dev`
 });
 exports.prisma = new exports.Prisma();

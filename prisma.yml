@@ -1,4 +1,5 @@
-endpoint: http://138.68.19.53:4466/crwn-clothing-prisma/dev
+endpoint: 
+https://style88-9efcbe60e4.herokuapp.com/style88/dev
 datamodel: datamodel.prisma
 
 generate:

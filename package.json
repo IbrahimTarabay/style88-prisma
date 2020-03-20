@@ -1,5 +1,5 @@
 {
-  "name": "crwn-clothing-prisma",
+  "name": "style88-prisma",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Yihua Zhang <yihuazhang2@gmail.com> (http://yihuazhang.com/)",
+  "author": "Ibrahim Salah",
   "license": "MIT",
   "dependencies": {
     "graphql-yoga": "1.17.4",
