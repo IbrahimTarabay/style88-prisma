@@ -21,6 +21,6 @@ exports.Prisma = prisma_lib_1.makePrismaClientClass({
   typeDefs,
   models,
   endpoint: `
-  https://style88-9efcbe60e4.herokuapp.com/style88/dev`
+  https://rocky-sierra-00708.herokuapp.com/style88/dev`
 });
 exports.prisma = new exports.Prisma();
